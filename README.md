@@ -106,6 +106,10 @@
         .botao-confirmacao:hover {
             background-color: #e0e0e0;
         }
+        @keyframes piscar {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
     </style>
 </head>
 <body>
