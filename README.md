@@ -101,6 +101,7 @@
             text-decoration: none; /* Para o link */
             display: inline-block;
             transition: background-color 0.3s;
+            animation: piscar 2s infinite; /* Animação de piscar lentamente */
         }
         .botao-confirmacao:hover {
             background-color: #e0e0e0;
