@@ -119,7 +119,7 @@
             <p><strong>Horário:</strong> 20h</p>
             <p class="verso">"Em tudo dai graças, porque esta é a vontade de Deus em Cristo Jesus para convosco" 1Ts 5,18</p>
             <p class="assinatura">Gabriella Moreira</p>
-            <a href="https://wa.me/85997639459?text=Olá%20Gabriella,%20confirmo%20minha%20presença%20na%20formatura!" class="botao-confirmacao" id="confirmar">Confirmar Presença</a>
+            <a href="https://wa.me/8597639459?text=Olá%20Gabriella,%20confirmo%20minha%20presença%20na%20formatura!" class="botao-confirmacao" id="confirmar">Confirmar Presença</a>
         </div>
     </div>
 
